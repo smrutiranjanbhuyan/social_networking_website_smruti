@@ -30,7 +30,7 @@ The database schema includes the following tables:
 ## File Description
 
 - `social_network_db_schema.sql`: Contains the SQL scripts to create the database schema.
-- `sample_data.sql`: Contains sample data insertion queries for the `users` table.
+
 
 ## Author
 
